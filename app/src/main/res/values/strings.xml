@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetAMIO</string>
+    <string name="service_TV">Service status:</string>
+    <string name="result_TV">Last\n results: </string>
+    <string name="alert_TV">Last alert:</string>
+    <string name="unknown_TV">\?\?\?</string>
+    <string name="label_toggle_button">Toggle activation</string>
+    <string name="start_at_boot">Start at boot</string>
+    <string name="toggle_preferences">Show preferences</string>
+</resources>

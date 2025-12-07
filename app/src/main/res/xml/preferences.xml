@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.SwitchPreferenceCompat
+        app:key="boot_start"
+        app:title="Start at boot"
+        app:summary="The service will automatically start when the phone boots."
+        android:defaultValue="false"/>
+</PreferenceScreen>
